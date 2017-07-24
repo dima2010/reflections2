@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	When a new repository being intialized, Git makes a new folder for storing repository matadata.
+	If repository is not initialized, then it's impossible to track the files change history.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area contanis only files that are intended to be committed, that is, it gives an ability to choose exact files to be committed.
