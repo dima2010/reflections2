@@ -23,3 +23,6 @@ How do the diagrams help you visualize the branch structure?
 	Since diagram (git log --graph) is the only way to se the commits belonging to different branches, it may be usefull to understanding what commits had been made on these branches.
 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The result of merging branches will be a ine set of project files with changes including changes from both branches merged. In the diagram it will be shown as joining branches. 
