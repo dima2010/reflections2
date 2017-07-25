@@ -16,3 +16,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 	Branches are usfull when it is necessary to have more than one concurrently existing versions of a project, e.g. one release version (stable) and one developments version (where changes are going one). In this case, it's a lot easier to create a new branch rather than make a real copy of the whole project with all the dependencies. 
+
+
+How do the diagrams help you visualize the branch structure?
+
+	Since diagram (git log --graph) is the only way to se the commits belonging to different branches, it may be usefull to understanding what commits had been made on these branches.
+
+
