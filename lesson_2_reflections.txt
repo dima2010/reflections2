@@ -25,4 +25,11 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-	The result of merging branches will be a ine set of project files with changes including changes from both branches merged. In the diagram it will be shown as joining branches. 
+	The result of merging branches will be a ine set of project files with changes including changes from both branches merged. In the diagram it will be shown as joining branches.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automerging is definitely faster than manual and less error-prone as any automatic operation comparing to a manual one.
+
+
