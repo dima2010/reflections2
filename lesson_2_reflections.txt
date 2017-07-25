@@ -7,3 +7,12 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	Staging area contanis only files that are intended to be committed, that is, it gives an ability to choose exact files to be committed.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Only the scpecific commit related files should be added to the staging area before making a certain commit.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches are usfull when it is necessary to have more than one concurrently existing versions of a project, e.g. one release version (stable) and one developments version (where changes are going one). In this case, it's a lot easier to create a new branch rather than make a real copy of the whole project with all the dependencies. 
