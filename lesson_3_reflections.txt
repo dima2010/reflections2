@@ -20,3 +20,6 @@ What is the benefit of having a copy of the last known state of the remote store
 	First of all, it helps to know what the state of current branches are comparing to remotes. Secondly, it gives an ability to look at the development on remote branches independently of local ones.
 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	It's hard to say what would be easier without using GitHub since it gives a lot of opportunities for collaboration and makes it substantially easier for people.
